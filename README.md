@@ -1,2 +1,2 @@
 # CSML
-Stanford Online Course
+Stanford Online Course Projects
